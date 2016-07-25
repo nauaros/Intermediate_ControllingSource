@@ -27,6 +27,7 @@
 		55E52A7617B9B15900088960 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55E52A5117B9B15800088960 /* CoreData.framework */; };
 		55E52A7E17B9B15900088960 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 55E52A7C17B9B15900088960 /* InfoPlist.strings */; };
 		55E52A8017B9B15900088960 /* ControllingSourceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 55E52A7F17B9B15900088960 /* ControllingSourceTests.m */; };
+		C9AB588D1D463D27005EB221 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C9AB588C1D463D27005EB221 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		55E52A7D17B9B15900088960 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		55E52A7F17B9B15900088960 /* ControllingSourceTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ControllingSourceTests.m; sourceTree = "<group>"; };
 		55E52A8B17B9B35F00088960 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
+		C9AB588C1D463D27005EB221 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +154,7 @@
 			isa = PBXGroup;
 			children = (
 				55E52A5517B9B15800088960 /* ControllingSource-Info.plist */,
+				C9AB588C1D463D27005EB221 /* .gitignore */,
 				55E52A5617B9B15800088960 /* InfoPlist.strings */,
 				55E52A5917B9B15800088960 /* main.m */,
 				55E52A5B17B9B15800088960 /* ControllingSource-Prefix.pch */,
@@ -276,6 +279,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C9AB588D1D463D27005EB221 /* .gitignore in Resources */,
 				55E52A6C17B9B15800088960 /* Images.xcassets in Resources */,
 				55E52A5817B9B15800088960 /* InfoPlist.strings in Resources */,
 				55E52A6117B9B15800088960 /* Main.storyboard in Resources */,
