@@ -128,5 +128,17 @@
 		<key>famousQuote</key>
 		<string>&quot;The greatest deception men suffer is from their own opinions.&quot;</string>
 	</dict>
+	<dict>
+		<key>personName</key>
+		<string>Dr. Seuss</string>
+		<key>famousQuote</key>
+		<string>&quot;Don&apos;t cry because it&apos;s over, smile because it happened.&quot;</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>Oscar Wilde</string>
+		<key>famousQuote</key>
+		<string>&quot;Be yourself; everyone else is already taken.&quot;</string>
+	</dict>
 </array>
 </plist>
